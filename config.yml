@@ -1,0 +1,45 @@
+baseURL: "http://localhost:1313"
+languageCode: en-us
+title: Time Trail
+theme: hugo-theme-stack
+paginate: 20
+
+taxonomies:
+  category: categories
+  player: players
+  tag: tags
+
+params:
+  sidebar: 
+    avatar:
+      enabled: true
+      local: true
+      src: img/boss.webp
+  cover:
+      linkFullImages: true
+  widgets:
+    homepage:
+      - type: search
+  #          - type: categories
+  #            params:
+  #                limit: 10
+  #          - type: tag-cloud
+  #            params:
+  #                limit: 30
+  #      page:
+  #          - type: toc
+
+menu:
+  main:
+    - identifier: categories
+      name: Speed
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tracks
+      url: /tags/
+      weight: 30
+    - identifier: players
+      name: Players
+      url: /players/
+      weight: 40
