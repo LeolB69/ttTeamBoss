@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Players on Time Trail</title>
+        <link>http://localhost:1313/players/</link>
+        <description>Recent content in Players on Time Trail</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 13 Jun 2024 15:21:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/players/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AstroAdam</title>
+        <link>http://localhost:1313/players/astroadam/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/astroadam/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Corrmo</title>
+        <link>http://localhost:1313/players/corrmo/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/corrmo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Emré</title>
+        <link>http://localhost:1313/players/emr%C3%A9/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/emr%C3%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fireknight</title>
+        <link>http://localhost:1313/players/fireknight/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/fireknight/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Léol</title>
+        <link>http://localhost:1313/players/l%C3%A9ol/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/l%C3%A9ol/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ulyo</title>
+        <link>http://localhost:1313/players/ulyo/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/ulyo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Zhotrin</title>
+        <link>http://localhost:1313/players/zhotrin/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/zhotrin/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Quichzz</title>
+        <link>http://localhost:1313/players/quichzz/</link>
+        <pubDate>Wed, 12 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>http://localhost:1313/players/quichzz/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
