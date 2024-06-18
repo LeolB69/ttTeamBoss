@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Players on Time Trail</title>
+        <title>Players on Time Trial</title>
         <link>https://leolb69.github.io/ttteamboss/players/</link>
-        <description>Recent content in Players on Time Trail</description>
+        <description>Recent content in Players on Time Trial</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 15 Jun 2024 15:21:58 +0200</lastBuildDate><atom:link href="https://leolb69.github.io/ttteamboss/players/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 17 Jun 2024 15:21:58 +0200</lastBuildDate><atom:link href="https://leolb69.github.io/ttteamboss/players/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fireknight</title>
+        <link>https://leolb69.github.io/ttteamboss/players/fireknight/</link>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/players/fireknight/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Quichzz</title>
         <link>https://leolb69.github.io/ttteamboss/players/quichzz/</link>
-        <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/players/quichzz/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Zhotrin</title>
+        <link>https://leolb69.github.io/ttteamboss/players/zhotrin/</link>
+        <pubDate>Sun, 16 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/players/zhotrin/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Léol</title>
+        <link>https://leolb69.github.io/ttteamboss/players/l%C3%A9ol/</link>
+        <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/players/l%C3%A9ol/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ulyo</title>
+        <link>https://leolb69.github.io/ttteamboss/players/ulyo/</link>
+        <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/players/ulyo/</guid>
         <description></description>
         </item>
         <item>
@@ -31,27 +63,19 @@
         <description></description>
         </item>
         <item>
+        <title>Deltatw</title>
+        <link>https://leolb69.github.io/ttteamboss/players/deltatw/</link>
+        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/players/deltatw/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Emré</title>
         <link>https://leolb69.github.io/ttteamboss/players/emr%C3%A9/</link>
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/players/emr%C3%A9/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Fireknight</title>
-        <link>https://leolb69.github.io/ttteamboss/players/fireknight/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/players/fireknight/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Léol</title>
-        <link>https://leolb69.github.io/ttteamboss/players/l%C3%A9ol/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/players/l%C3%A9ol/</guid>
         <description></description>
         </item>
         <item>
@@ -68,22 +92,6 @@
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/players/raph/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Ulyo</title>
-        <link>https://leolb69.github.io/ttteamboss/players/ulyo/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/players/ulyo/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Zhotrin</title>
-        <link>https://leolb69.github.io/ttteamboss/players/zhotrin/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/players/zhotrin/</guid>
         <description></description>
         </item>
         

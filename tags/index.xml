@@ -1,17 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Time Trail</title>
+        <title>Tags on Time Trial</title>
         <link>https://leolb69.github.io/ttteamboss/tags/</link>
-        <description>Recent content in Tags on Time Trail</description>
+        <description>Recent content in Tags on Time Trial</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 15 Jun 2024 15:21:58 +0200</lastBuildDate><atom:link href="https://leolb69.github.io/ttteamboss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 17 Jun 2024 15:21:58 +0200</lastBuildDate><atom:link href="https://leolb69.github.io/ttteamboss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BBC3</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/bbc3/</link>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/bbc3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>BMG</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/bmg/</link>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/bmg/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DWW</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/dww/</link>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/dww/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>RMMM</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/rmmm/</link>
+        <pubDate>Mon, 17 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/rmmm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DMC</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/dmc/</link>
+        <pubDate>Sun, 16 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/dmc/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>DAC</title>
         <link>https://leolb69.github.io/ttteamboss/tags/dac/</link>
         <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/dac/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DNBC</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/dnbc/</link>
+        <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/dnbc/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DYC</title>
+        <link>https://leolb69.github.io/ttteamboss/tags/dyc/</link>
+        <pubDate>Sat, 15 Jun 2024 15:21:58 +0200</pubDate>
+        
+        <guid>https://leolb69.github.io/ttteamboss/tags/dyc/</guid>
         <description></description>
         </item>
         <item>
@@ -28,14 +84,6 @@
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/bbb/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>BBC3</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/bbc3/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/bbc3/</guid>
         <description></description>
         </item>
         <item>
@@ -172,14 +220,6 @@
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/bmd/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>BMG</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/bmg/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/bmg/</guid>
         <description></description>
         </item>
         <item>
@@ -455,22 +495,6 @@
         <description></description>
         </item>
         <item>
-        <title>DMC</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/dmc/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/dmc/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>DNBC</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/dnbc/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/dnbc/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>DRiR</title>
         <link>https://leolb69.github.io/ttteamboss/tags/drir/</link>
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
@@ -508,14 +532,6 @@
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/dwgm/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>DYC</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/dyc/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/dyc/</guid>
         <description></description>
         </item>
         <item>
@@ -596,14 +612,6 @@
         <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/rmc/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>RMMM</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/rmmm/</link>
-        <pubDate>Thu, 13 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/rmmm/</guid>
         <description></description>
         </item>
         <item>
@@ -756,14 +764,6 @@
         <pubDate>Wed, 12 Jun 2024 15:21:58 +0200</pubDate>
         
         <guid>https://leolb69.github.io/ttteamboss/tags/dhc/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>DWW</title>
-        <link>https://leolb69.github.io/ttteamboss/tags/dww/</link>
-        <pubDate>Wed, 12 Jun 2024 15:21:58 +0200</pubDate>
-        
-        <guid>https://leolb69.github.io/ttteamboss/tags/dww/</guid>
         <description></description>
         </item>
         <item>
