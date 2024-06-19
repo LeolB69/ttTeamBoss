@@ -2,7 +2,7 @@
     <header class="article-category">
         {{ range $k, $v := .Params }}
         {{ range ($.GetTerms $k) }}
-            <a href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }}>
+            <a class="custom_{{ .LinkTitle }}" href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }}>
                 {{ .LinkTitle }}
             </a>
         {{ end }}
