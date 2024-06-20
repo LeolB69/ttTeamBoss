@@ -12,6 +12,7 @@ image: bWP.webp
 Laps : 48.936 - 46.758 - 46.729 /
 
 Set on 18/06/2024
+
 .501 improvement over
 
 ### 2:22.918 by Léol

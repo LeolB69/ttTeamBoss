@@ -1,0 +1,36 @@
+.main .article-list article .article-category a {
+        
+    background-color: rgb(137, 134, 131);
+
+    &.custom_150cc {
+
+        &.NI {
+    
+        background-color: #8ae07b;
+        }
+
+        &.Shroom {
+            background-color: #3999f9
+            ;
+        }
+    }
+
+    &.custom_200cc {
+
+        background-color: #fa8993;
+    }
+
+    &[class^="custom_D"] {
+        background-color: #EADE4A;
+    }
+
+    &[class^="custom_B"] {
+        background-color: #BA4AEA;
+    }
+}
+
+.article-header {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+  }

@@ -4,7 +4,7 @@
         {{ range ($.GetTerms $k) }}
             <a class="custom_{{ .LinkTitle }}" href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }}>
                 {{ .LinkTitle }}
-            </a>
+            </a>      
         {{ end }}
         {{ end }}
     </header>

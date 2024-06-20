@@ -13,6 +13,7 @@ Laps : 34.435 - 32.504 - 32.443 /
 Shrooms : 1-1-1
 
 Set on 17/06/2024
+
 .376 improvement over
 
 ### 1:39.758 by Quichzz

@@ -13,6 +13,7 @@ Laps : 37.291 - 50.695 - 30.394 /
 Shrooms : 0-1-2
 
 Set on 18/06/2024
+
 .368 improvement over
 
 ### 1:58.748 by Emré
