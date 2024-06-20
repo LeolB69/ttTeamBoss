@@ -2,7 +2,7 @@ baseURL: "https://leolb69.github.io/ttteamboss/"
 languageCode: en-us
 title: Time Trial
 theme: hugo-theme-stack
-paginate: 20
+paginate: 24
 
 taxonomies:
   category: categories
