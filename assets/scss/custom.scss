@@ -1,3 +1,12 @@
+.article-list {
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    article {
+        flex: 1 1 307px;
+    }
+}
+
 .main .article-list article .article-category a {
     
     background-color: aquamarine;
@@ -29,9 +38,3 @@
         background-color: rgb(137, 134, 131);
         }
 }
-
-// .article-header {
-// display: grid;
-    // grid-template-columns: 1fr 2fr;
-    // grid-gap: 10px;
-// }

@@ -17,9 +17,6 @@ params:
       src: img/boss.webp
   cover:
       linkFullImages: true
-  widgets:
-    homepage:
-      - type: search
 
 menu:
   main:
@@ -35,3 +32,6 @@ menu:
       name: Players
       url: /players/
       weight: 40
+    - widget:
+       homepage:
+        - type: search
