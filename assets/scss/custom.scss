@@ -8,6 +8,12 @@
 }
 
 .main .article-list article .article-category a {
+
+    transition: transform .2s;
+
+    &:hover {
+        transform: scale(1.1);
+    }
     
     background-color: aquamarine;
 
@@ -45,4 +51,42 @@
     &:nth-child(even) {
         background-color: rgb(137, 134, 131);
         }
+}
+
+.article-title {
+
+    text-align: center;
+    transition: transform .2s;
+
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.site-name {
+
+    text-align:center;
+    transition: transform .2s;
+
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.site-logo {
+
+    transition: transform .2s;
+
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.article-image {
+
+    transition: transform .2s;
+
+    &:hover {
+        transform: scale(1.05);
+    }
 }
