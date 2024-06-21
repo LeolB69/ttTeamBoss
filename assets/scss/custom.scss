@@ -90,3 +90,14 @@
         transform: scale(1.05);
     }
 }
+
+.article-list--compact {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    article {
+        display: flex;
+        flex: 1 1 125px;
+    }
+}
