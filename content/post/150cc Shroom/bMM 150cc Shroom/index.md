@@ -8,7 +8,7 @@ players: [Zhotrin]
 image: bMM.webp
 ---
 ## 1:53.182 by Zhotrin
-{< youtube V5Fug89i7-4 >}
+{{< youtube V5Fug89i7-4 >}}
 Laps : 39.265 - 36.969 - 36.948 /
 Shrooms : 1-1-1
 
