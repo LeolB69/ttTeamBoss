@@ -22,6 +22,6 @@ Set on 18/06/2024
 Laps : 37.285 - 51.068 - 30.395 /
 Shrooms : 0-1-2
 
-Set before 14/06/2024
+Set before 14/06/2024. Lasted more than 4 days
 
 First time set
