@@ -7,12 +7,21 @@ categories: [150cc Shroom]
 players: [Zhotrin]
 image: bKD.webp
 ---
+## 1:30.751 by Zhotrin
+{{< youtube RpQVixyADnU >}}
+Laps : 33.995 - 26.199 - 30.557 /
+Shrooms : 2-1-0
+
+Set on 20/06/2024
+
+.147 improvement over
+
 ## 1:30.898 by Zhotrin
 {{< youtube jTt0NHclsjA >}}
 Laps : 33.998 - 26.369 - 30.531 /
 Shrooms : 2-1-0
 
-Set on 19/06/2024
+Set on 19/06/2024. Lasted 1 day
 
 1.009 improvement over
 

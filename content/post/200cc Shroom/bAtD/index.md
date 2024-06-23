@@ -5,7 +5,6 @@ draft: false
 tags: [bAtD]
 categories: [200cc Shroom]
 players: [Léol]
-players: 
 image: bAtD.webp
 ---
 ### 1:14.456 by Léol
