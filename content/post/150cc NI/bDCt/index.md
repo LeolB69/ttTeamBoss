@@ -26,7 +26,7 @@ Set on 24/06/2024. Lasted 33 minutes
 ### 1:53.413 by Zhotrin
 
 {{< youtube saj-gskhgy0 >}}
-Laps : ?-?-?
+Laps : 39.780 - 36.739 - 36.894
 
 Set on 23/06/2024. Lasted 1 day
 
