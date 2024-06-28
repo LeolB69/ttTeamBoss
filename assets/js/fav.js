@@ -2,11 +2,15 @@ const buttons = document.querySelectorAll('button.buttonfav')
 
 function setFav(button) {
     const parentArticle = button.closest('article')
+    //const parentArticle2 = button.closest('.article-content')
     const articleTitle = parentArticle.dataset.title
     let favorites = JSON.parse(localStorage.getItem('Favoris') || '[]')
 
     if(favorites.includes(articleTitle)) {
         button.classList.add('Favorite')
+        parentArticle.classList.add('FavArticle')
+        //parentArticle2.classList.add('FavArticle')
+        button.innerHTML = '&starf; Favori'
     }
 }
 
@@ -19,11 +23,15 @@ function toggleFav(e) {
     if(favorites.includes(articleTitle)) {
         favorites = favorites.filter((f) => f !== articleTitle)
         e.target.classList.remove('Favorite')
-        e.target.innerHTML = 'Ajouter aux favs'
+        parentArticle.classList.remove('FavArticle')
+        //parentArticle2.classList.remove('FavArticle')
+        e.target.innerHTML = '&starf; Ajouter aux favs'
     } else {
         favorites.push(articleTitle)
         e.target.classList.add('Favorite')
-        e.target.innerHTML = 'Favori'
+        parentArticle.classList.add('FavArticle')
+        //parentArticle2.classList.add('FavArticle')
+        e.target.innerHTML = '&starf;  Favori'
 
     }
 
