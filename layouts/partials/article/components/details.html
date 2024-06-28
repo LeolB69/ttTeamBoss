@@ -16,7 +16,6 @@
                 {{- .Title -}}
             </a>
         </h2>
-    
         {{ with .Params.description }}
         <h3 class="article-subtitle">
             {{ . }}
@@ -37,6 +36,10 @@
                 </time>
             </div>
         {{ end }}
+        
+        <div>
+            <button class="buttonfav">Ajouter aux favs</button>
+        </div>
 
 <!--      {{ if $showReadingTime }}
             <div>
